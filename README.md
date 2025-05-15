@@ -52,4 +52,4 @@ After running the tests, an HTML report will be generated in the project root di
 
 - Make sure you have a stable internet connection while running the tests
 - Update the test URLs in config.py according to your target website
-- Some tests might need adjustment based on the specific website structure 
+- Some tests might need adjustment based on the specific website structure
